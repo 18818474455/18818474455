@@ -118,27 +118,40 @@
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%2322C55E&width=24" height="22" /> &nbsp;Reach out
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 - **Issues & feature requests** → [camera-connect-sdk/issues](https://github.com/18818474455/camera-connect-sdk/issues)
 - **Q&A and showcase** → [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions)
-- **Business / OEM / partnerships** → open a Discussion or DM
+- **Business / OEM / partnerships** → open a Discussion or DM (or scan WeChat below)
 
 <br/>
 
-#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;微信公众号
+<table align="center">
+<tr>
+<td align="center" width="320">
 
-新机型适配 · 行业洞察 · 摄影师专访 · 社区福利
-**每周一封 · 不发广告**
-
-</td>
-<td width="45%" align="center" valign="top">
+#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;公众号 · 关注获取更新
 
 <img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/40-wechat-qr.png" alt="WeChat 公众号" width="180" />
 
-<sub><b>扫码关注 「Camera Connect SDK」</b></sub>
+<sub><b>「Camera Connect SDK」</b></sub>
+
+<br/><br/>
+
+`新机型` · `版本更新` · `行业洞察`
+**每周一封 · 不发广告**
+
+</td>
+<td align="center" width="320">
+
+#### <img src="https://api.iconify.design/ri/wechat-line.svg?color=%237C3AED&width=22" height="20" /> &nbsp;加好友 · 私聊技术与商务
+
+<img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/41-wechat-personal.png" alt="Founder Personal WeChat" width="180" />
+
+<sub><b>「陈影留白」 (founder)</b></sub>
+
+<br/><br/>
+
+`技术答疑` · `商业授权` · `OEM 定制`
+**真人秒回 · 不走客服**
 
 </td>
 </tr>
