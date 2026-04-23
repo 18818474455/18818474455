@@ -118,9 +118,31 @@
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%2322C55E&width=24" height="22" /> &nbsp;Reach out
 
-- **Issues & feature requests** → [github.com/18818474455/camera-connect-sdk/issues](https://github.com/18818474455/camera-connect-sdk/issues)
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- **Issues & feature requests** → [camera-connect-sdk/issues](https://github.com/18818474455/camera-connect-sdk/issues)
 - **Q&A and showcase** → [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions)
 - **Business / OEM / partnerships** → open a Discussion or DM
+
+<br/>
+
+#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;微信公众号
+
+新机型适配 · 行业洞察 · 摄影师专访 · 社区福利
+**每周一封 · 不发广告**
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/40-wechat-qr.png" alt="WeChat 公众号" width="180" />
+
+<sub><b>扫码关注 「Camera Connect SDK」</b></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
