@@ -1,168 +1,125 @@
-<!-- ═══════════════ 顶部动效波浪 ═══════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=160&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Building%20the%20bridge%20between%20cameras%20and%20phones.&descSize=16&descAlignY=62&animation=fadeIn)
-
 <div align="center">
 
-<!-- ═══════════════ 打字动画 ═══════════════ -->
+# Mobile Imaging SDK Builder
 
-<a href="https://github.com/18818474455/camera-connect-sdk">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=2800&pause=600&color=00D4FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Connect+Anything.;%E4%B8%93%E6%B3%A8%E4%B8%93%E4%B8%9A%E5%BD%B1%E5%83%8F+%C3%97+%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%9A%84%E8%BF%9E%E6%8E%A5%E5%B1%82;Built+for+Light-Speed+Photography." alt="Animated Typing" />
-</a>
+**Camera connectivity · AI portrait enhancement · mobile photo editing workflow**
 
-<br/>
+I build SDKs and product demos for mobile imaging teams: camera-to-phone connection, AI color grading, portrait-safe retouching, beauty controls, and practical developer integration docs.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=18818474455&style=for-the-badge&color=00D4FF&labelColor=0A0A0A&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/18818474455?style=for-the-badge&color=7C3AED&labelColor=0A0A0A&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/18818474455?style=for-the-badge&color=FFD700&labelColor=0A0A0A&logo=github&logoColor=white&label=STARS" alt="Stars" />
-</p>
-
-</div>
-
----
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%237C3AED&width=24" height="22" /> &nbsp;Featured project
-
-<table align="center">
-<tr>
-<td width="40%" valign="middle">
-
-<a href="https://github.com/18818474455/camera-connect-sdk">
-  <img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/demo-flow.svg" alt="Camera Connect SDK live demo" width="100%" />
-</a>
-
-</td>
-<td width="60%" valign="middle">
-
-### [`camera-connect-sdk`](https://github.com/18818474455/camera-connect-sdk)
-
-> **Pro-grade USB camera connectivity SDK for mobile.**
-> Canon · Sony · Nikon · Panasonic. Sub-1.5s transfer. 99.97% uptime.
-
-<p>
-  <img src="https://img.shields.io/badge/⚡_Speed-%3C1.5s-00D4FF?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/✦_Uptime-99.97%25-22C55E?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/◉_Cameras-40%2B-FFFFFF?style=flat-square&labelColor=0A0A0A" />
-</p>
-
-<p>
-  <a href="https://github.com/18818474455/camera-connect-sdk/releases/latest">
-    <img src="https://img.shields.io/github/v/release/18818474455/camera-connect-sdk?label=Latest&color=00D4FF&labelColor=0A0A0A&style=flat-square&logo=github" alt="Latest release" />
+  <img src="https://komarev.com/ghpvc/?username=18818474455&style=for-the-badge&color=111827&label=PROFILE%20VIEWS" alt="Profile views" />
+  <a href="https://github.com/18818474455/ChromaBeautySDK">
+    <img src="https://img.shields.io/badge/Featured-Chroma%20Beauty%20SDK-ff69b4?style=for-the-badge" alt="Chroma Beauty SDK" />
   </a>
-  <a href="https://github.com/18818474455/camera-connect-sdk/stargazers">
-    <img src="https://img.shields.io/github/stars/18818474455/camera-connect-sdk?style=flat-square&color=FFD700&labelColor=0A0A0A&logo=github" alt="Stars" />
+  <a href="https://github.com/18818474455/camera-connect-sdk">
+    <img src="https://img.shields.io/badge/Featured-Camera%20Connect%20SDK-00D4FF?style=for-the-badge" alt="Camera Connect SDK" />
   </a>
-  <a href="https://github.com/18818474455/camera-connect-sdk/releases">
-    <img src="https://img.shields.io/github/downloads/18818474455/camera-connect-sdk/total?label=Downloads&color=22C55E&labelColor=0A0A0A&style=flat-square&logo=cloudsmith" alt="Downloads" />
+  <a href="mailto:yunxiangchuanlaobiao@yunxiangchuan.cn">
+    <img src="https://img.shields.io/badge/Email-SDK%20Evaluation-22C55E?style=for-the-badge" alt="Email" />
   </a>
 </p>
 
-**[ ▸ Live demo & docs ](https://github.com/18818474455/camera-connect-sdk)**　·　**[ ▸ Download APK ](https://github.com/18818474455/camera-connect-sdk/releases/download/v1.0.0/camera-connect-sdk-demo-v1.0.0.apk)**
-
-</td>
-</tr>
-</table>
-
-<br/>
+</div>
 
 ---
 
-<br/>
+## Start Here
 
-## <img src="https://api.iconify.design/lucide/code-2.svg?color=%2300D4FF&width=24" height="22" /> &nbsp;What I work on
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,objectivec,gradle,xcode,androidstudio,vscode,git,github&perline=12)](https://skillicons.dev)
-
-</div>
-
-- **Mobile-first SDK design** — Flutter plugins, native Android (Kotlin/Java), native iOS (Swift/ObjC)
-- **USB / PTP protocol** — low-level camera communication, multi-vendor support
-- **Real-time pipelines** — sub-second image streaming, broadcast-ready latencies
-- **Developer experience** — APIs that feel like magic but ship like clockwork
-
-<br/>
+| If you are interested in... | Read this first |
+|---|---|
+| AI beauty, portrait retouching, color grading | [Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK) |
+| Chinese articles about Chroma Beauty SDK | [中文文章 3 篇](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/zh) |
+| English articles for overseas readers | [English articles 3 posts](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/en) |
+| USB camera connection for mobile apps | [camera-connect-sdk](https://github.com/18818474455/camera-connect-sdk) |
+| Business / OEM / SDK evaluation | [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn) |
 
 ---
 
-<br/>
+## Featured SDKs
 
-## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%237C3AED&width=24" height="22" /> &nbsp;GitHub stats
+### [Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK)
 
-<div align="center">
+Mobile AI beauty and intelligent color grading SDK showcase for Android and iOS. It focuses on one-tap color grading, portrait protection, beauty retouching, face shaping, style panels, preview/export workflow, and commercial SDK delivery.
 
-<a href="https://github.com/18818474455">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=18818474455&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&icon_color=7C3AED&text_color=A1A1AA" alt="GitHub stats" />
-</a>
-<a href="https://github.com/18818474455">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18818474455&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=A1A1AA&langs_count=8" alt="Top languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/18818474455/ChromaBeautySDK">
+    <img src="https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg" alt="Chroma Beauty SDK demo workflow" width="860" />
+  </a>
+</p>
 
-<br/><br/>
+Quick links:
 
-<a href="https://github.com/18818474455">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=18818474455&theme=dark&hide_border=true&background=0A0A0A&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=A1A1AA&dates=A1A1AA" alt="Streak" />
-</a>
+- [Product README](https://github.com/18818474455/ChromaBeautySDK)
+- [Article pack](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/README.md)
+- [Integration notes](https://github.com/18818474455/ChromaBeautySDK/blob/main/docs/INTEGRATION.md)
+- [Commercial notes](https://github.com/18818474455/ChromaBeautySDK/blob/main/docs/COMMERCIAL.md)
 
-</div>
+### [camera-connect-sdk](https://github.com/18818474455/camera-connect-sdk)
 
-<br/>
+Mobile SDK showcase for professional camera connectivity. It focuses on USB / PTP workflows, camera-to-phone image transfer, mobile shooting tools, and practical camera integration scenarios.
+
+Quick links:
+
+- [Project README](https://github.com/18818474455/camera-connect-sdk)
+- [Issues](https://github.com/18818474455/camera-connect-sdk/issues)
+- [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions)
 
 ---
 
-<br/>
+## Article Library
 
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%2322C55E&width=24" height="22" /> &nbsp;Reach out
+These posts are written as reusable publishing material for GitHub, CSDN, developer communities, and business introduction pages.
 
-- **Issues & feature requests** → [camera-connect-sdk/issues](https://github.com/18818474455/camera-connect-sdk/issues)
-- **Q&A and showcase** → [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions)
-- **Business / OEM / partnerships** → open a Discussion or DM (or scan WeChat below)
+### Chinese
 
-<br/>
+| Title | Angle |
+|---|---|
+| [不只是美颜滤镜：Chroma Beauty SDK 的移动端影像处理链路](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/01-product-overview.md) | 产品总览、卖点介绍 |
+| [从一键调色到导出：移动端修图 SDK 的接入设计](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/02-integration-workflow.md) | 技术接入、工作流设计 |
+| [面向相机、社交和电商人像的 AI 美颜调色方案](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/03-commercial-scenarios.md) | 商业场景、行业方案 |
 
-<table align="center">
-<tr>
-<td align="center" width="320">
+### English
 
-#### <img src="https://api.iconify.design/ri/wechat-fill.svg?color=%2322C55E&width=22" height="20" /> &nbsp;公众号 · 关注获取更新
+| Title | Angle |
+|---|---|
+| [Chroma Beauty SDK: Build Portrait-Safe Photo Editing into Mobile Apps](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/01-global-overview.md) | Product overview for global readers |
+| [A Practical Integration Playbook for AI Color and Beauty Retouching SDKs](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/02-integration-playbook.md) | SDK evaluation and developer integration |
+| [From Camera Apps to E-commerce Portraits: Commercial Use Cases for Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/03-commercial-use-cases.md) | Commercial use cases and buyer education |
 
-<img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/40-wechat-qr.png" alt="WeChat 公众号" width="180" />
+---
 
-<sub><b>「Camera Connect SDK」</b></sub>
+## What I Write About
 
-<br/><br/>
+- Mobile imaging SDK design
+- Android / iOS image processing workflow
+- AI beauty retouching and portrait protection
+- One-tap color grading and editable parameters
+- Camera-to-phone connection and USB / PTP workflows
+- SDK commercialization, demo apps, OEM delivery, and developer documentation
 
-`新机型` · `版本更新` · `行业洞察`
-**每周一封 · 不发广告**
+---
 
-</td>
-<td align="center" width="320">
+## For SDK Evaluation
 
-#### <img src="https://api.iconify.design/ri/wechat-line.svg?color=%237C3AED&width=22" height="20" /> &nbsp;加好友 · 私聊技术与商务
+If you are building a mobile camera, photo editor, portrait retouching product, e-commerce image tool, event photography workflow, or AI image enhancement app, you can send the following information by email:
 
-<img src="https://github.com/18818474455/camera-connect-sdk/raw/main/assets/41-wechat-personal.png" alt="Founder Personal WeChat" width="180" />
+| Item | Example |
+|---|---|
+| Product type | Camera, photo editor, social app, e-commerce, event photos |
+| Platform | Android, iOS, Flutter, server batch |
+| Needed modules | Color grading, beauty, portrait protection, camera connection |
+| Integration style | Full demo workflow or modular SDK integration |
 
-<sub><b>「陈影留白」 (founder)</b></sub>
+Email: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
 
-<br/><br/>
+---
 
-`技术答疑` · `商业授权` · `OEM 定制`
-**真人秒回 · 不走客服**
+## Repository Scope
 
-</td>
-</tr>
-</table>
-
-<br/>
+Public repositories here are for product introduction, technical communication, demo materials, and article distribution. Production SDK binaries, model weights, private source code, license keys, customer-specific materials, and commercial delivery files are not published publicly.
 
 <div align="center">
 
-<sub><i>Built for photographers, by people who care about every frame.</i></sub>
+<sub>Building practical imaging SDKs for real mobile products.</sub>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=footer&animation=fadeIn)
