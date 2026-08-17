@@ -1,21 +1,20 @@
 <div align="center">
 
-# Mobile Imaging SDK Builder
+# 云享传 · 活动摄影影像工具
 
-**Camera connectivity · AI portrait enhancement · mobile photo editing workflow**
+**本机精修桌面端 · 开源调色零件 · 移动影像 SDK**
 
-I build SDKs and product demos for mobile imaging teams: camera-to-phone connection, AI color grading, portrait-safe retouching, beauty controls, and practical developer integration docs.
+Local-first event photography retouching. AI proposes editable parameters. Open-source `.cube` parts. Camera-to-phone SDKs.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=18818474455&style=for-the-badge&color=111827&label=PROFILE%20VIEWS" alt="Profile views" />
-  <a href="https://github.com/18818474455/ChromaBeautySDK">
-    <img src="https://img.shields.io/badge/Featured-Chroma%20Beauty%20SDK-ff69b4?style=for-the-badge" alt="Chroma Beauty SDK" />
+  <a href="https://github.com/18818474455/liangzai">
+    <img src="https://img.shields.io/badge/Featured-云享传靓仔-3DD6A5?style=for-the-badge&labelColor=0D1017" alt="云享传靓仔" />
   </a>
-  <a href="https://github.com/18818474455/camera-connect-sdk">
-    <img src="https://img.shields.io/badge/Featured-Camera%20Connect%20SDK-00D4FF?style=for-the-badge" alt="Camera Connect SDK" />
+  <a href="https://github.com/18818474455/liangzai-cube-kit">
+    <img src="https://img.shields.io/badge/Open%20Source-cube--kit-3DD6A5?style=for-the-badge&labelColor=0D1017" alt="cube-kit" />
   </a>
-  <a href="mailto:yunxiangchuanlaobiao@yunxiangchuan.cn">
-    <img src="https://img.shields.io/badge/Email-SDK%20Evaluation-22C55E?style=for-the-badge" alt="Email" />
+  <a href="https://www.ybpbyxc.com">
+    <img src="https://img.shields.io/badge/Website-ybpbyxc.com-5DDCF6?style=for-the-badge&labelColor=0D1017" alt="官网" />
   </a>
 </p>
 
@@ -23,103 +22,74 @@ I build SDKs and product demos for mobile imaging teams: camera-to-phone connect
 
 ---
 
-## Start Here
+## 先看产品
 
-| If you are interested in... | Read this first |
+| 想看什么 | 去这里 |
 |---|---|
-| AI beauty, portrait retouching, color grading | [Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK) |
-| Chinese articles about Chroma Beauty SDK | [中文文章 3 篇](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/zh) |
-| English articles for overseas readers | [English articles 3 posts](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/en) |
-| USB camera connection for mobile apps | [camera-connect-sdk](https://github.com/18818474455/camera-connect-sdk) |
-| Business / OEM / SDK evaluation | [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn) |
+| 活动摄影桌面精修软件 | [云享传靓仔](https://github.com/18818474455/liangzai) |
+| 完整实机录屏、技术图、下载 | [liangzai README](https://github.com/18818474455/liangzai) |
+| 开源 `.cube` LUT，可在线试跑 | [liangzai-cube-kit](https://github.com/18818474455/liangzai-cube-kit) |
+| 移动端美颜 / 调色 SDK | [Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK) |
+| 相机连手机 SDK | [camera-connect-sdk](https://github.com/18818474455/camera-connect-sdk) |
+| 私有化 / OEM / 商务 | [企业合作](https://www.ybpbyxc.com/enterprise.html) · 微信 `cylbaw` · WhatsApp `@biandongdev` |
 
 ---
 
-## Featured SDKs
+## Featured · 云享传靓仔
+
+活动摄影现场用的 **Mac / Windows 精修工作台**。像素留在本机，AI 给出可编辑参数，不是烤死的滤镜结果。
+
+<p align="center">
+  <a href="https://github.com/18818474455/liangzai">
+    <img src="https://raw.githubusercontent.com/18818474455/liangzai/main/docs/readme/rendered/hero-workstation.webp" alt="云享传靓仔：本机出片，AI 起稿，参数可编辑" width="920" />
+  </a>
+</p>
+
+- 产品总览：[github.com/18818474455/liangzai](https://github.com/18818474455/liangzai)
+- 下载 Mac / Windows：仓库首屏直链，或 [官网下载页](https://www.ybpbyxc.com/download.html)
+- 开源零件：[cube-kit](https://github.com/18818474455/liangzai-cube-kit) · [plugin-sdk](https://github.com/18818474455/liangzai-plugin-sdk)
+- 本仓库是产品介绍与开源导航，**不是完整桌面应用源码**
+
+---
+
+## Open source parts
+
+### [liangzai-cube-kit](https://github.com/18818474455/liangzai-cube-kit)
+
+Adobe `.cube` 3D LUT 读写、三线性插值、强度混合。MIT。可 `npm install`，也可在 [Playground](https://18818474455.github.io/liangzai-cube-kit/) 拖图试。
+
+```bash
+npm install liangzai-cube-kit
+```
+
+### [liangzai-plugin-sdk](https://github.com/18818474455/liangzai-plugin-sdk)
+
+插件类型与 Hello 示例。用来看接口边界；正式桌面端不加载第三方插件。
+
+---
+
+## Mobile SDKs
 
 ### [Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK)
 
-Mobile AI beauty and intelligent color grading SDK showcase for Android and iOS. It focuses on one-tap color grading, portrait protection, beauty retouching, face shaping, style panels, preview/export workflow, and commercial SDK delivery.
-
-<p align="center">
-  <a href="https://github.com/18818474455/ChromaBeautySDK">
-    <img src="https://raw.githubusercontent.com/18818474455/ChromaBeautySDK/main/assets/apk-demo/demo-storyboard.jpg" alt="Chroma Beauty SDK demo workflow" width="860" />
-  </a>
-</p>
-
-Quick links:
+Android / iOS 美颜与智能调色 SDK 展示：一键调色、人像保护、美型、预览 / 导出与商业交付说明。
 
 - [Product README](https://github.com/18818474455/ChromaBeautySDK)
-- [Article pack](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/README.md)
-- [Integration notes](https://github.com/18818474455/ChromaBeautySDK/blob/main/docs/INTEGRATION.md)
-- [Commercial notes](https://github.com/18818474455/ChromaBeautySDK/blob/main/docs/COMMERCIAL.md)
+- [中文文章](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/zh)
+- [English articles](https://github.com/18818474455/ChromaBeautySDK/tree/main/articles/en)
 
 ### [camera-connect-sdk](https://github.com/18818474455/camera-connect-sdk)
 
-Mobile SDK showcase for professional camera connectivity. It focuses on USB / PTP workflows, camera-to-phone image transfer, mobile shooting tools, and practical camera integration scenarios.
-
-Quick links:
-
-- [Project README](https://github.com/18818474455/camera-connect-sdk)
-- [Issues](https://github.com/18818474455/camera-connect-sdk/issues)
-- [Discussions](https://github.com/18818474455/camera-connect-sdk/discussions)
+专业相机连手机：USB / PTP、相机到手机传图、移动端拍摄工具。
 
 ---
 
-## Article Library
+## Contact
 
-These posts are written as reusable publishing material for GitHub, CSDN, developer communities, and business introduction pages.
+- 官网：[ybpbyxc.com](https://www.ybpbyxc.com)
+- 微信：`cylbaw`
+- WhatsApp：`@biandongdev`
+- 商务：`007007007@163.com`
+- SDK 评估：[yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
 
-### Chinese
-
-| Title | Angle |
-|---|---|
-| [不只是美颜滤镜：Chroma Beauty SDK 的移动端影像处理链路](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/01-product-overview.md) | 产品总览、卖点介绍 |
-| [从一键调色到导出：移动端修图 SDK 的接入设计](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/02-integration-workflow.md) | 技术接入、工作流设计 |
-| [面向相机、社交和电商人像的 AI 美颜调色方案](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/zh/03-commercial-scenarios.md) | 商业场景、行业方案 |
-
-### English
-
-| Title | Angle |
-|---|---|
-| [Chroma Beauty SDK: Build Portrait-Safe Photo Editing into Mobile Apps](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/01-global-overview.md) | Product overview for global readers |
-| [A Practical Integration Playbook for AI Color and Beauty Retouching SDKs](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/02-integration-playbook.md) | SDK evaluation and developer integration |
-| [From Camera Apps to E-commerce Portraits: Commercial Use Cases for Chroma Beauty SDK](https://github.com/18818474455/ChromaBeautySDK/blob/main/articles/en/03-commercial-use-cases.md) | Commercial use cases and buyer education |
-
----
-
-## What I Write About
-
-- Mobile imaging SDK design
-- Android / iOS image processing workflow
-- AI beauty retouching and portrait protection
-- One-tap color grading and editable parameters
-- Camera-to-phone connection and USB / PTP workflows
-- SDK commercialization, demo apps, OEM delivery, and developer documentation
-
----
-
-## For SDK Evaluation
-
-If you are building a mobile camera, photo editor, portrait retouching product, e-commerce image tool, event photography workflow, or AI image enhancement app, you can send the following information by email:
-
-| Item | Example |
-|---|---|
-| Product type | Camera, photo editor, social app, e-commerce, event photos |
-| Platform | Android, iOS, Flutter, server batch |
-| Needed modules | Color grading, beauty, portrait protection, camera connection |
-| Integration style | Full demo workflow or modular SDK integration |
-
-Email: [yunxiangchuanlaobiao@yunxiangchuan.cn](mailto:yunxiangchuanlaobiao@yunxiangchuan.cn)
-
----
-
-## Repository Scope
-
-Public repositories here are for product introduction, technical communication, demo materials, and article distribution. Production SDK binaries, model weights, private source code, license keys, customer-specific materials, and commercial delivery files are not published publicly.
-
-<div align="center">
-
-<sub>Building practical imaging SDKs for real mobile products.</sub>
-
-</div>
+公开仓库只放产品介绍、开源零件、SDK 展示与文章。正式引擎、模型权重、密钥和客户交付物不公开。
